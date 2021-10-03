@@ -7,6 +7,7 @@
 html, body {
     background: whitesmoke;
     font-family: sans-serif;
+    scroll-behavior: smooth;
 }
 
 /* navbar styling */
